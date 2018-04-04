@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522841399 source:e:\codeblocks\projets\v1.0\main.cpp
+	<iostream>
+	<allegro.h>
+
+1522838212 source:e:\codeblocks\projets\v1.0\affichageallegro.c
+
+1522838212 e:\codeblocks\projets\v1.0\affichageallegro.h
+
