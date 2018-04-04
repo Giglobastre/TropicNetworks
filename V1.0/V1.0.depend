@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522797995 source:e:\codeblocks\projets\v1.0\main.cpp
+	<iostream>
+	<allegro.h>
+
