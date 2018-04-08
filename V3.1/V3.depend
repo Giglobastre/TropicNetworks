@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1523225713 source:c:\users\michel clada\desktop\projetinfos4\v3.1\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1523226124 c:\users\michel clada\desktop\projetinfos4\v3.1\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+	<ctime>
+
+1523225713 c:\users\michel clada\desktop\projetinfos4\v3.1\include\arete.h
+	"Sommet.h"
+
+1523225713 c:\users\michel clada\desktop\projetinfos4\v3.1\include\sommet.h
+	<iostream>
+	<allegro.h>
+	<cstring>
+	<string>
+
+1523225713 source:c:\users\michel clada\desktop\projetinfos4\v3.1\src\arete.cpp
+	"Arete.h"
+
+1523226367 source:c:\users\michel clada\desktop\projetinfos4\v3.1\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1523225713 source:c:\users\michel clada\desktop\projetinfos4\v3.1\src\sommet.cpp
+	"Sommet.h"
+
