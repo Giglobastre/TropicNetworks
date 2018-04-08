@@ -1,0 +1,372 @@
+# depslib dependency file v1.0
+1522878658 source:c:\users\michel clada\desktop\projetinfos4\v2.2\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1522921233 c:\users\michel clada\desktop\projetinfos4\v2.2\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1522878658 c:\users\michel clada\desktop\projetinfos4\v2.2\include\arete.h
+	"Sommet.h"
+
+1522878658 c:\users\michel clada\desktop\projetinfos4\v2.2\include\sommet.h
+	<iostream>
+
+1522878658 source:c:\users\michel clada\desktop\projetinfos4\v2.2\src\arete.cpp
+	"Arete.h"
+
+1522921233 source:c:\users\michel clada\desktop\projetinfos4\v2.2\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1522878658 source:c:\users\michel clada\desktop\projetinfos4\v2.2\src\sommet.cpp
+	"Sommet.h"
+
+1522921544 source:e:\codeblocks\projets\v2.2\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1522921544 e:\codeblocks\projets\v2.2\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1522921544 e:\codeblocks\projets\v2.2\include\arete.h
+	"Sommet.h"
+
+1522921544 e:\codeblocks\projets\v2.2\include\sommet.h
+	<iostream>
+
+1522921544 source:e:\codeblocks\projets\v2.2\src\arete.cpp
+	"Arete.h"
+
+1522921544 source:e:\codeblocks\projets\v2.2\src\sommet.cpp
+	"Sommet.h"
+
+1522935668 source:e:\codeblocks\projets\v2.2\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1522943774 source:e:\codeblocks\projets\v2.3\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1522921544 e:\codeblocks\projets\v2.3\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1522921544 e:\codeblocks\projets\v2.3\include\arete.h
+	"Sommet.h"
+
+1522921544 e:\codeblocks\projets\v2.3\include\sommet.h
+	<iostream>
+
+1522921544 source:e:\codeblocks\projets\v2.3\src\arete.cpp
+	"Arete.h"
+
+1522921544 source:e:\codeblocks\projets\v2.3\src\sommet.cpp
+	"Sommet.h"
+
+1522943887 source:e:\codeblocks\projets\v2.3\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1522921544 source:e:\codeblocks\projets\v2.4\src\arete.cpp
+	"Arete.h"
+
+1522921544 e:\codeblocks\projets\v2.4\include\arete.h
+	"Sommet.h"
+
+1522921544 e:\codeblocks\projets\v2.4\include\sommet.h
+	<iostream>
+
+1522921544 source:e:\codeblocks\projets\v2.4\src\sommet.cpp
+	"Sommet.h"
+
+1523000233 source:e:\codeblocks\projets\v2.4\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1523000339 e:\codeblocks\projets\v2.4\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1523000339 source:e:\codeblocks\projets\v2.4\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1523014623 source:e:\codeblocks\projets\v2.5\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1523017381 e:\codeblocks\projets\v2.5\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1522921544 e:\codeblocks\projets\v2.5\include\arete.h
+	"Sommet.h"
+
+1523010622 e:\codeblocks\projets\v2.5\include\sommet.h
+	<iostream>
+	<allegro.h>
+
+1522921544 source:e:\codeblocks\projets\v2.5\src\arete.cpp
+	"Arete.h"
+
+1523011675 source:e:\codeblocks\projets\v2.5\src\sommet.cpp
+	"Sommet.h"
+
+1523018054 source:e:\codeblocks\projets\v2.5\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1523040085 source:c:\users\guill\downloads\tropicnetworks-kenny\tropicnetworks-kenny\v2.5\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1523043781 c:\users\guill\downloads\tropicnetworks-kenny\tropicnetworks-kenny\v2.5\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1523039733 c:\users\guill\downloads\tropicnetworks-kenny\tropicnetworks-kenny\v2.5\include\arete.h
+	"Sommet.h"
+
+1523042452 c:\users\guill\downloads\tropicnetworks-kenny\tropicnetworks-kenny\v2.5\include\sommet.h
+	<iostream>
+	<allegro.h>
+	<cstring>
+	<string>
+
+1523039733 source:c:\users\guill\downloads\tropicnetworks-kenny\tropicnetworks-kenny\v2.5\src\arete.cpp
+	"Arete.h"
+
+1523045540 source:c:\users\guill\downloads\tropicnetworks-kenny\tropicnetworks-kenny\v2.5\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1523045260 source:c:\users\guill\downloads\tropicnetworks-kenny\tropicnetworks-kenny\v2.5\src\sommet.cpp
+	"Sommet.h"
+
+1523046997 source:c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.5\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1523043781 c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.5\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1523039733 c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.5\include\arete.h
+	"Sommet.h"
+
+1523042452 c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.5\include\sommet.h
+	<iostream>
+	<allegro.h>
+	<cstring>
+	<string>
+
+1523039733 source:c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.5\src\arete.cpp
+	"Arete.h"
+
+1523046558 source:c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.5\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1523046479 source:c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.5\src\sommet.cpp
+	"Sommet.h"
+
+1523046997 source:c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.6\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1523043781 c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.6\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1523039733 c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.6\include\arete.h
+	"Sommet.h"
+
+1523042452 c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.6\include\sommet.h
+	<iostream>
+	<allegro.h>
+	<cstring>
+	<string>
+
+1523039733 source:c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.6\src\arete.cpp
+	"Arete.h"
+
+1523102463 source:c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.6\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1523049584 source:c:\users\guill\onedrive\documents\ece\ing2\info\thdesgraphes\projet\v2.6\src\sommet.cpp
+	"Sommet.h"
+
+1523105015 source:e:\codeblocks\projets\v2.6.1\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1523103482 e:\codeblocks\projets\v2.6.1\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1523103482 e:\codeblocks\projets\v2.6.1\include\arete.h
+	"Sommet.h"
+
+1523104766 e:\codeblocks\projets\v2.6.1\include\sommet.h
+	<iostream>
+	<allegro.h>
+	<cstring>
+	<string>
+
+1523103482 source:e:\codeblocks\projets\v2.6.1\src\arete.cpp
+	"Arete.h"
+
+1523104766 source:e:\codeblocks\projets\v2.6.1\src\sommet.cpp
+	"Sommet.h"
+
+1523105906 source:e:\codeblocks\projets\v2.6.1\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1523105015 source:e:\codeblocks\projets\v2.7\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1523103482 e:\codeblocks\projets\v2.7\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1523103482 e:\codeblocks\projets\v2.7\include\arete.h
+	"Sommet.h"
+
+1523118833 e:\codeblocks\projets\v2.7\include\sommet.h
+	<iostream>
+	<allegro.h>
+	<cstring>
+	<string>
+
+1523103482 source:e:\codeblocks\projets\v2.7\src\arete.cpp
+	"Arete.h"
+
+1523118979 source:e:\codeblocks\projets\v2.7\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1523118919 source:e:\codeblocks\projets\v2.7\src\sommet.cpp
+	"Sommet.h"
+
+1523105015 source:e:\codeblocks\projets\v2.9\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1523196049 e:\codeblocks\projets\v2.9\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+
+1523103482 e:\codeblocks\projets\v2.9\include\arete.h
+	"Sommet.h"
+
+1523118833 e:\codeblocks\projets\v2.9\include\sommet.h
+	<iostream>
+	<allegro.h>
+	<cstring>
+	<string>
+
+1523103482 source:e:\codeblocks\projets\v2.9\src\arete.cpp
+	"Arete.h"
+
+1523118919 source:e:\codeblocks\projets\v2.9\src\sommet.cpp
+	"Sommet.h"
+
+1523196075 source:e:\codeblocks\projets\v2.9\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
+1523223478 source:c:\users\guill\downloads\tropicnetworks-kenny (1)\tropicnetworks-kenny\v2.9.1\main.cpp
+	<iostream>
+	<allegro.h>
+	"Graphe.h"
+
+1523221280 c:\users\guill\downloads\tropicnetworks-kenny (1)\tropicnetworks-kenny\v2.9.1\include\graphe.h
+	"Arete.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<stack>
+	<allegro.h>
+	<ctime>
+
+1523208582 c:\users\guill\downloads\tropicnetworks-kenny (1)\tropicnetworks-kenny\v2.9.1\include\arete.h
+	"Sommet.h"
+
+1523208582 c:\users\guill\downloads\tropicnetworks-kenny (1)\tropicnetworks-kenny\v2.9.1\include\sommet.h
+	<iostream>
+	<allegro.h>
+	<cstring>
+	<string>
+
+1523208583 source:c:\users\guill\downloads\tropicnetworks-kenny (1)\tropicnetworks-kenny\v2.9.1\src\sommet.cpp
+	"Sommet.h"
+
+1523208583 source:c:\users\guill\downloads\tropicnetworks-kenny (1)\tropicnetworks-kenny\v2.9.1\src\arete.cpp
+	"Arete.h"
+
+1523222817 source:c:\users\guill\downloads\tropicnetworks-kenny (1)\tropicnetworks-kenny\v2.9.1\src\graphe.cpp
+	"Graphe.h"
+	<stack>
+
